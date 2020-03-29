@@ -1,2 +1,2 @@
 # java
-this will be java project
+this repository consist java project
